@@ -20,23 +20,26 @@ My name is Barry, I'm currently an undergraduate student studying data science a
 <a href="https://github.com/Barry0121/Fashion_Item_Rating_Predition">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Barry0121&repo=Fashion_Item_Rating_Predition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 <br>
 
 <a href="https://github.com/Barry0121/Triple-C-Data-Science-Dashboard">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Barry0121&repo=Triple-C-Data-Science-Dashboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<br>
 
 <a href="https://github.com/Barry0121/Religious-Text-Analysis-NLP">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Barry0121&repo=Religious-Text-Analysis-NLP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<br>
 
 <!-- GitHub Stats -->
 
 <a href="https://github.com/Barry0121">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry0121&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<br>
 
 <a href="https://github.com/Barry0121">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Barry0121&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Barry's GitHub Stats" />
 </a>
+<br>
