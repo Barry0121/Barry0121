@@ -17,7 +17,7 @@ My name is Barry, I'm currently an undergraduate student studying data science a
 
 <!-- Pinned Repositories -->
 
-<a href="https://github.com/Barry0121/Fashion_Item_Rating_Predition">
+<!-- <a href="https://github.com/Barry0121/Fashion_Item_Rating_Predition">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Barry0121&repo=Fashion_Item_Rating_Predition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
@@ -30,7 +30,7 @@ My name is Barry, I'm currently an undergraduate student studying data science a
 <a href="https://github.com/Barry0121/Religious-Text-Analysis-NLP">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Barry0121&repo=Religious-Text-Analysis-NLP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+<br> -->
 
 <!-- GitHub Stats -->
 
