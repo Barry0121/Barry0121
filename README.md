@@ -11,9 +11,6 @@
 
 <!-- Introduction -->
 Hi! :smile:
-<br>
-My name is Barry, I'm currently an master's student studying computer science and artificial intelligence at the University of Toronto. I enjoy spend most of my time playing with data using code and exploring interesting data science projects. When I'm not doing that, I am either watching some good movies, cooking a nice meal, or enjoying some quality time outside in the city.
-<br>
 
 <!-- Pinned Repositories -->
 
